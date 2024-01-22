@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Federico Sanchez Ruiz</h1>
-<h3 align="center">#1 ReactJS fan</h3>
+<h3 align="center">#1 NextJS fan</h3>
 
 - 🌱 I’m currently learning **NodeJS**
 
